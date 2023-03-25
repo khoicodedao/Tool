@@ -63,6 +63,26 @@ namespace ToolFaceBook.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1455554314_line_15_icon_icons_com_53330 {
+            get {
+                object obj = ResourceManager.GetObject("1455554314_line-15_icon-icons.com_53330", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1486504830_delete_dustbin_empty_recycle_recycling_remove_trash_81361 {
+            get {
+                object obj = ResourceManager.GetObject("1486504830-delete-dustbin-empty-recycle-recycling-remove-trash_81361", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _1492790846_9cancel_84247 {
             get {
                 object obj = ResourceManager.GetObject("1492790846-9cancel_84247", resourceCulture);
@@ -103,9 +123,69 @@ namespace ToolFaceBook.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap arrow_click_cursor_interface_internet_pointer_user_icon_127095 {
+            get {
+                object obj = ResourceManager.GetObject("arrow_click_cursor_interface_internet_pointer_user_icon_127095", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap chart_infographic_insight_analytics_presentation_flow_108517 {
+            get {
+                object obj = ResourceManager.GetObject("chart-infographic-insight-analytics-presentation-flow_108517", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap clock_icon_icons_com_54407 {
+            get {
+                object obj = ResourceManager.GetObject("clock_icon-icons.com_54407", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap emblemdefault_103756 {
+            get {
+                object obj = ResourceManager.GetObject("emblemdefault_103756", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap exit_closethesession_close_6317 {
+            get {
+                object obj = ResourceManager.GetObject("exit_closethesession_close_6317", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap in_door_communication_enter_log_in_login_icon_191647 {
             get {
                 object obj = ResourceManager.GetObject("in_door_communication_enter_log_in_login_icon_191647", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap list_notes_930 {
+            get {
+                object obj = ResourceManager.GetObject("list_notes_930", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -126,6 +206,56 @@ namespace ToolFaceBook.Properties {
         internal static System.Drawing.Bitmap on_off_power_button_icon_icons_com_53938 {
             get {
                 object obj = ResourceManager.GetObject("on-off-power-button_icon-icons.com_53938", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap organizer_calendar_clock_pencil_10047 {
+            get {
+                object obj = ResourceManager.GetObject("organizer_calendar_clock_pencil_10047", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap political_online_campaign_icon_154129 {
+            get {
+                object obj = ResourceManager.GetObject("political_online_campaign_icon_154129", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap success_icon_icons_com_52365 {
+            get {
+                object obj = ResourceManager.GetObject("success_icon-icons.com_52365", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap success_icon_icons1 {
+            get {
+                object obj = ResourceManager.GetObject("success_icon-icons1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap xmag_search_find_export_locate_5984 {
+            get {
+                object obj = ResourceManager.GetObject("xmag_search_find_export_locate_5984", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

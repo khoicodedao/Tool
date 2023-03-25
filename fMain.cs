@@ -16,6 +16,7 @@ namespace ToolFaceBook
         {
             InitializeComponent();
             // dataGridView1.Columns[0].HeaderText = "Name";
+
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -24,6 +25,16 @@ namespace ToolFaceBook
         }
 
         private void fMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

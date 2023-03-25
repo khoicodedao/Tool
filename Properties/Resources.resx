@@ -118,25 +118,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="4092564-about-mobile-ui-profile-ui-user-website_114033" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4092564-about-mobile-ui-profile-ui-user-website_114033.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1486504830-delete-dustbin-empty-recycle-recycling-remove-trash_81361" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1486504830-delete-dustbin-empty-recycle-recycling-remove-trash_81361.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="on-off-power-button_icon-icons.com_53938" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\on-off-power-button_icon-icons.com_53938.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="emblemdefault_103756" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\emblemdefault_103756.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clock_icon-icons.com_54407" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clock_icon-icons.com_54407.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="success_icon-icons.com_52365" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\success_icon-icons.com_52365.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chart-infographic-insight-analytics-presentation-flow_108517" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chart-infographic-insight-analytics-presentation-flow_108517.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow_click_cursor_interface_internet_pointer_user_icon_127095" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arrow_click_cursor_interface_internet_pointer_user_icon_127095.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1455554314_line-15_icon-icons.com_53330" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1455554314_line-15_icon-icons.com_53330.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="organizer_calendar_clock_pencil_10047" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\organizer_calendar_clock_pencil_10047.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4092564-about-mobile-ui-profile-ui-user-website_1140331" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4092564-about-mobile-ui-profile-ui-user-website_114033.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="in_door_communication_enter_log_in_login_icon_191647" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\in_door_communication_enter_log_in_login_icon_191647.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="1492790846-9cancel_84247" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1492790846-9cancel_84247.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="on-off-power-button_icon-icons.com_53938" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\on-off-power-button_icon-icons.com_53938.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="list_notes_930" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\list_notes_930.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="lock-outlined-padlock-symbol-for-security-interface_icon-icons.com_57803" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lock-outlined-padlock-symbol-for-security-interface_icon-icons.com_57803.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4115230-cancel-close-cross-delete_114048" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4115230-cancel-close-cross-delete_114048.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="in_door_communication_enter_log_in_login_icon_191647" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\in_door_communication_enter_log_in_login_icon_191647.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="political_online_campaign_icon_154129" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\political_online_campaign_icon_154129.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exit_closethesession_close_6317" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit_closethesession_close_6317.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="success_icon-icons1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\success_icon-icons.com_523651.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4092564-about-mobile-ui-profile-ui-user-website_114033" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4092564-about-mobile-ui-profile-ui-user-website_114033.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xmag_search_find_export_locate_5984" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xmag_search_find_export_locate_5984.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
