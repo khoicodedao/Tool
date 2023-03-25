@@ -86,7 +86,7 @@
             panel2.Controls.Add(label2);
             panel2.Location = new Point(18, 90);
             panel2.Name = "panel2";
-            panel2.Size = new Size(442, 49);
+            panel2.Size = new Size(428, 49);
             panel2.TabIndex = 5;
             // 
             // textBox2
@@ -117,7 +117,7 @@
             panel1.Controls.Add(label1);
             panel1.Location = new Point(17, 15);
             panel1.Name = "panel1";
-            panel1.Size = new Size(442, 49);
+            panel1.Size = new Size(429, 49);
             panel1.TabIndex = 4;
             // 
             // textBox1
